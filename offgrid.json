@@ -1,0 +1,85 @@
+{
+
+
+	"data": [
+
+
+		{
+			"isNative": false,
+			"title": "1 - ",
+			"description": "details",
+		  "imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/offgrididid.png"
+		},
+
+		{
+			"isNative": false,
+			"title": "2 - ",
+			"description": "details",
+      "imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/offgrididid.png"
+
+		},	
+		{
+			"isNative": false,
+			"title": "3 - ",
+			"description": "details",
+      "imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/offgrididid.png"
+
+		},
+
+		{
+			"isNative": false,
+			"title": "4 - ",
+			"description": "details",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/offgrididid.png"
+		},
+
+		{
+			"isNative": false,
+			"title": "5 - ",
+			"description": "details",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/offgrididid.png"
+		},
+
+		{
+			"isNative": false,
+			"title": "6 - ",
+			"description": "details",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/offgrididid.png"
+		},
+
+		{
+			"isNative": false,
+			"title": "7 - ",
+			"description": "details",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/offgrididid.png"
+		}
+
+	],
+
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
+	"popAppName": "Free Fire",
+	"popAppImage": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/logo_free_diamond.png",
+	"popAppPackage": "com.",
+	"popAppIsActive": false,
+
+	"DetailImageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/nativeTest.png",
+	"DetailImageLink": "https://www.youtube.com/",
+	"DetailImageisActivated": false,
+
+	"NativeMenuImageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/nativeTest.png",
+	"NativeMenuImageLink": "https://www.facebook.com/",
+
+	"ADMOB_BANNER": "ca-app-pub-39456099942544/6300978111",
+	"ADMOB_INTERSTITIAL": "ca-app-pub-39406099942544/1033173712",
+
+	"APPLOVIN_BANNER_ID": "d063c02502087ff6",
+	"APPLOVIN_INTERSTITIAL_ID": "2fb38336c560d201",
+
+	"UNITY_BANNER": "Android_Banner",
+	"UNITY_INTERSTITIAL": "Android_Interstitial",
+	"UNITY_GAME_ID": "3916229",
+	"UNITY_TEST_MODE": false,
+
+	"SwitchAds": 1
+
+}
