@@ -56,11 +56,11 @@
 
 	],
 
-	"popAppLink": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
-	"popAppName": "Free Fire",
-	"popAppImage": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/logo_free_diamond.png",
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.dmanagerdocs.guide",
+	"popAppName": "Install Now",
+	"popAppImage": "https://play-lh.googleusercontent.com/0_2MotBr1M_qk-exZD6UPsI4RHRIYACe7WtXocBGvPRDRxoMqY4CDiRp1XDR7nT8Bw=s512",
 	"popAppPackage": "com.",
-	"popAppIsActive": false,
+	"popAppIsActive": true,
 
 	"DetailImageUrl": "https://raw.githubusercontent.com/donaphex/pictures/main/bnrclickhere.png",
 	"DetailImageLink": "https://play.google.com/store/apps/details?id=com.dmanagerdocs.guide",
