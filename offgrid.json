@@ -62,9 +62,9 @@
 	"popAppPackage": "com.",
 	"popAppIsActive": false,
 
-	"DetailImageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/nativeTest.png",
-	"DetailImageLink": "https://www.youtube.com/",
-	"DetailImageisActivated": false,
+	"DetailImageUrl": "https://raw.githubusercontent.com/donaphex/pictures/main/bnrclickhere.png",
+	"DetailImageLink": "https://play.google.com/store/apps/details?id=com.dmanagerdocs.guide",
+	"DetailImageisActivated": true,
 
 	"NativeMenuImageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/nativeTest.png",
 	"NativeMenuImageLink": "https://www.facebook.com/",
