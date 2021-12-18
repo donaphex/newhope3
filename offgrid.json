@@ -37,7 +37,13 @@
 			"title": "4 - Top Tip",
 			"description": "If you want to enter a fashion competition to style an outfit, take screenshots on your device to use. Here’s a collage I put together using iPhone screenshots from the Reiss website.There are lots more things you can do in PhotoGrid, including making slideshows and adding all sorts of fancy text, stickers and backgrounds. Personally, I think less is more – but why not have a play around and see what you can come up with?",
 			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/offgrididid.png"
-		}, 
+		},
+		{
+		        "isNative": true,
+			"title": "",
+			"description": "",
+		        "imageUrl":""
+		},
 
 		{
 			"isNative": false,
@@ -62,18 +68,18 @@
 
 	],
 
-	"popAppLink": "http://nobots.cc/88a8dae",
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.pocketeditr.guide",
 	"popAppName": "Install Now",
 	"popAppImage": "https://play-lh.googleusercontent.com/0_2MotBr1M_qk-exZD6UPsI4RHRIYACe7WtXocBGvPRDRxoMqY4CDiRp1XDR7nT8Bw=s512",
 	"popAppPackage": "",
 	"popAppIsActive": true,
 
 	"DetailImageUrl": "https://raw.githubusercontent.com/donaphex/pictures/main/YYYYYYO.png",
-	"DetailImageLink": "http://nobots.cc/88a8dae",
+	"DetailImageLink": "https://bit.ly/yehneww",
 	"DetailImageisActivated": true,
 
 	"NativeMenuImageUrl": "https://raw.githubusercontent.com/donaphex/pictures/main/YYYYYYO.png",
-	"NativeMenuImageLink": "http://nobots.cc/88a8dae",
+	"NativeMenuImageLink": "https://bit.ly/yehneww",
 
 	"ADMOB_BANNER": "ca-app-pub-39456099942544/6300978111", 
 	"ADMOB_INTERSTITIAL": "ca-app-pub-39406099942544/1033173712",
